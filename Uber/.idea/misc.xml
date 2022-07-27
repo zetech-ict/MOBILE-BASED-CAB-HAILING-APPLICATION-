@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ROGERS PC/AndroidStudioProjects/Uber/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
+        <entry key="..\:/Users/ROGERS PC/AndroidStudioProjects/Uber/app/src/main/res/layout/activity_customers_map.xml" value="0.25" />
+        <entry key="..\:/Users/ROGERS PC/AndroidStudioProjects/Uber/app/src/main/res/layout/activity_drivers_map.xml" value="0.139453125" />
+        <entry key="..\:/Users/ROGERS PC/AndroidStudioProjects/Uber/app/src/main/res/layout/activity_drivers_map2.xml" value="0.12" />
+        <entry key="..\:/Users/ROGERS PC/AndroidStudioProjects/Uber/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
